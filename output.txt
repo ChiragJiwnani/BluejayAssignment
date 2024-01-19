@@ -1,0 +1,774 @@
+Employees with 7 consecutive unique days:
+
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+AGeX, WaMhaW REGerM PeWa (WFS000588): Less than 10 hours between shifts but greater than 1 hour.
+AGeX, WaMhaW REGerM PeWa (WFS000588): Less than 10 hours between shifts but greater than 1 hour.
+AGeX, WaMhaW REGerM PeWa (WFS000588): Less than 10 hours between shifts but greater than 1 hour.
+AGeX, WaMhaW REGerM PeWa (WFS000588): Less than 10 hours between shifts but greater than 1 hour.
+AGeX, WaMhaW REGerM PeWa (WFS000588): Less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs (WFS000541): Less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs (WFS000541): Less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs (WFS000541): Less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs (WFS000541): Less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs (WFS000541): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar (WFS000457): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW (WFS000584): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder (WFS000306): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse (WFS000491): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe (WFS000170): Less than 10 hours between shifts but greater than 1 hour.
+ArrAMia, AXexis ArMArE (WFS000518): Less than 10 hours between shifts but greater than 1 hour.
+ArrAMia, AXexis ArMArE (WFS000518): Less than 10 hours between shifts but greater than 1 hour.
+ArrAMia, AXexis ArMArE (WFS000518): Less than 10 hours between shifts but greater than 1 hour.
+ArrAMia, AXexis ArMArE (WFS000518): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis (WFS000571): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid (WFS000495): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed (WFS000362): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE (WFS000463): Less than 10 hours between shifts but greater than 1 hour.
+CarMer, XyWWeXX DejAaW Jr (WFS000576): Less than 10 hours between shifts but greater than 1 hour.
+CaraGiXXa, AWMhEWy (WFS000514): Less than 10 hours between shifts but greater than 1 hour.
+CaraGiXXa, AWMhEWy (WFS000514): Less than 10 hours between shifts but greater than 1 hour.
+CaraGiXXa, AWMhEWy (WFS000514): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX (WFS000500): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee (WFS000501): Less than 10 hours between shifts but greater than 1 hour.
+CeWdEza, Erik (WFS000465): Less than 10 hours between shifts but greater than 1 hour.
+CeWdEza, Erik (WFS000465): Less than 10 hours between shifts but greater than 1 hour.
+CeciWa, SiXvesMre Jr (WFS000528): Less than 10 hours between shifts but greater than 1 hour.
+CeciWa, SiXvesMre Jr (WFS000528): Less than 10 hours between shifts but greater than 1 hour.
+CeciWa, SiXvesMre Jr (WFS000528): Less than 10 hours between shifts but greater than 1 hour.
+CeciWa, SiXvesMre Jr (WFS000528): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW (WFS000496): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX (WFS000446): Less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW (WFS000548): Less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW (WFS000548): Less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW (WFS000548): Less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW (WFS000548): Less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW (WFS000548): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez (WFS000509): Less than 10 hours between shifts but greater than 1 hour.
+CharXes, EGadiah SEraccE Jr (WFS000566): Less than 10 hours between shifts but greater than 1 hour.
+CharXes, EGadiah SEraccE Jr (WFS000566): Less than 10 hours between shifts but greater than 1 hour.
+CiGriaW DeXgadE, EXeWa S (WFS000574): Less than 10 hours between shifts but greater than 1 hour.
+CiGriaW DeXgadE, EXeWa S (WFS000574): Less than 10 hours between shifts but greater than 1 hour.
+CiGriaW DeXgadE, EXeWa S (WFS000574): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis (WFS000582): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA (WFS000268): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric (WFS000519): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe (WFS000551): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW (WFS000508): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX (WFS000414): Less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW (WFS000382): Less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW (WFS000382): Less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW (WFS000382): Less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW (WFS000382): Less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW (WFS000382): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX (WFS000442): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX (WFS000372): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix (WFS000552): Less than 10 hours between shifts but greater than 1 hour.
+FaGiaW CiraWda, JEse (WFS000530): Less than 10 hours between shifts but greater than 1 hour.
+FaGiaW CiraWda, JEse (WFS000530): Less than 10 hours between shifts but greater than 1 hour.
+FaGiaW CiraWda, JEse (WFS000530): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX (WFS000183): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX (WFS000579): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs (WFS000473): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW (WFS000226): Less than 10 hours between shifts but greater than 1 hour.
+GaXCes, EXias XEpez (WFS000127): Less than 10 hours between shifts but greater than 1 hour.
+GaXCes, EXias XEpez (WFS000127): Less than 10 hours between shifts but greater than 1 hour.
+GaXCes, EXias XEpez (WFS000127): Less than 10 hours between shifts but greater than 1 hour.
+GaXCes, EXias XEpez (WFS000127): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW (WFS000181): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts but greater than 1 hour.
+HAWMer, ViWceWM De PaAX (WFS000538): Less than 10 hours between shifts but greater than 1 hour.
+HAWMer, ViWceWM De PaAX (WFS000538): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549): Less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW (WFS000536): Less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW (WFS000536): Less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW (WFS000536): Less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW (WFS000536): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE (WFS000185): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581): Less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW (WFS000546): Less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW (WFS000546): Less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW (WFS000546): Less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW (WFS000546): Less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW (WFS000546): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D (WFS000557): Less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE (WFS000228): Less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE (WFS000228): Less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE (WFS000228): Less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE (WFS000228): Less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE (WFS000228): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX (WFS000360): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd (WFS000364): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW (WFS000180): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe (WFS000460): Less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe (WFS000460): Less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe (WFS000460): Less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe (WFS000460): Less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe (WFS000460): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW (WFS000434): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX (WFS000368): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez (WFS000517): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce (WFS000469): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556): Less than 10 hours between shifts but greater than 1 hour.
+RECerE, SergiE (WFS000420): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, AXexis GAMierrez (WFS000505): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, AXexis GAMierrez (WFS000505): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE (WFS000336): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE (WFS000336): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE (WFS000336): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE (WFS000336): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE (WFS000336): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis (WFS000412): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis (WFS000065): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar (WFS000585): Less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW (WFS000507): Less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW (WFS000507): Less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW (WFS000507): Less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW (WFS000507): Less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW (WFS000507): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe (WFS000555): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE (WFS000577): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW (WFS000393): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger (WFS000426): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, CaWpreeM (WFS000418): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, CaWpreeM (WFS000418): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, CaWpreeM (WFS000418): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, CaWpreeM (WFS000418): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM (WFS000424): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM (WFS000246): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh (WFS000101): Less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573): Less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573): Less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573): Less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573): Less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE (WFS000391): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, JEhW SeGasMiaW (WFS000578): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, JEhW SeGasMiaW (WFS000578): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, JEhW SeGasMiaW (WFS000578): Less than 10 hours between shifts but greater than 1 hour.
+VasqAez, JEhW SeGasMiaW (WFS000578): Less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE (WFS000583): Less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE (WFS000583): Less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE (WFS000583): Less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE (WFS000583): Less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE (WFS000583): Less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd (WFS000589): Less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd (WFS000589): Less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd (WFS000589): Less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd (WFS000589): Less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd (WFS000589): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX (WFS000511): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis (WFS000522): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME (WFS000572): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi (WFS000587): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar (WFS000200): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW (WFS000462): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX (WFS000499): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward (WFS000477): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward (WFS000477): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward (WFS000477): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward (WFS000477): Less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward (WFS000477): Less than 10 hours between shifts but greater than 1 hour.
+
+Employees with more than 14 hours in a single shift:
+
+Count of occurrences of short shifts for each employee:
+                    Employee Name  Short Shifts Count
+         AGeX, WaMhaW REGerM PeWa                  10
+              AXcEcer, ECar JesAs                  14
+                   AXvarez, Edgar                  20
+         ArCeWMa FXEres, JEWaMhaW                  18
+             ArEsMigAi, AXexaWder                  13
+                    ArevaXE, JEse                  18
+                    Arias, FeXipe                  18
+           ArrAMia, AXexis ArMArE                   9
+        CAevas ZavaXa, JErge XAis                  18
+                   CEMMa, Jessica                  16
+            CErMes, DEAgXas Farid                  20
+                 CEreira Jr, JEse                  18
+                CaMXEck, CEhaCCed                  18
+                 CaMaXaWE, CeghaW                  16
+               CaXdEWadE, AXfEWsE                  21
+        CarMer, XyWWeXX DejAaW Jr                   2
+               CaraGiXXa, AWMhEWy                   7
+                  Caxies, MerreXX                  20
+             CcRAWWeX, REWaXd Xee                  17
+                    CeWdEza, Erik                   6
+             CeciWa, SiXvesMre Jr                  11
+                CercadE, CrisMiaW                  16
+                    CercadE, SaAX                  18
+      CesiWa CEreWE, KeviW FaGiaW                  14
+         ChaCErE, HEXger CarMiWez                  18
+      CharXes, EGadiah SEraccE Jr                   5
+         CiGriaW DeXgadE, EXeWa S                   7
+    DECiWgAez AviWa, CigAeX AWgeX                  15
+       De XEs SaWMEs, JEseph XAis                  13
+             De Xa Cerda, IgWaciE                  18
+  DeXgadiXXE REdarMe, ChrisMiaW S                  17
+                        DiWh, DaA                  15
+           DiXXard, JEwaWW Cedric                  20
+       Diaz GaXvez, RicardE JEsAe                  18
+                 EXivares, FeXCaW                  18
+                 EasMCaW, CichaeX                  18
+                   ErEpeza, JEvaW                  12
+                     ErEzcE, SaAX                  15
+                   ErMiz, AGigaiX                  19
+              EsMrada, JEse FeXix                  17
+             FaGiaW CiraWda, JEse                   9
+                    FeXix, XeEWeX                  19
+          GAMierrez, PedrE CigAeX                  14
+             GAeWdia, JAaW CarXEs                  21
+                     GaWks, GryaW                  20
+              GaXCes, EXias XEpez                  11
+                   GarWes, JAsMiW                  18
+             GrACfieXd, CErWeXiAs                  16
+          HAWMer, ViWceWM De PaAX                   7
+ HEGGie ErMega, SeGasMiaW CichaeX                  14
+           HaCiXMEW, DeaWMe DevEW                  10
+                HerCEsiXXE, PedrE                  19
+HerWaWdez SaWchez, AWdrew AWMhEWy                  19
+                IWGEAa, JeffersEW                  12
+       JerEWiCE CEraXes, CarXEs D                  14
+                   MAake, CasiaWE                  12
+                  MAcker, CichaeX                  19
+               MaXeGi, ACirCasEAd                  15
+                  Merrazas, GriaW                  12
+                 MraW, WiXXiaC Ha                  21
+                      PaAXE, KyXe                  11
+                PaXaciE, JEWaMhaW                  16
+                    PayaW, DaWieX                  15
+             Perez, EdwiW JiCeWez                  16
+                PerkiWs, MarraWce                  15
+ RAvaXcaGa GaWAeXEs, DaWieX JesAs                  18
+                   RECerE, SergiE                   3
+      REdrigAez, AXexis GAMierrez                   5
+         REdrigAez, GraWdEW AWgeX                  22
+                 REdrigAez, PedrE                  14
+                  REdrigAez, XAis                  20
+                  REsaXiaWE, XAis                  19
+      RaCEs HerWaWdez, AdieX ECar                  17
+          Rivera AXcaWMar, GrayaW                  10
+        SMrickXaWd, REdWey EAgeWe                  20
+SaWchez PaCpXEWa, CrisMiaW AXGerM                  10
+                 SaWchez, ArWAXfE                  12
+                     SavaWg, JEhW                  12
+                 SiWgXeMEW, REger                  21
+                  SiWgh, CaWpreeM                  10
+                  SiWgh, JaspreeM                  19
+                SiWgh, MarAWpreeM                  17
+                  Sparks, KeWWeMh                  20
+VaXderraCa CasMiXXE, Escar FaGiaW                  11
+                 VasqAez, AXfredE                  15
+          VasqAez, JEhW SeGasMiaW                  10
+            ViXXa, AXfredE AieXXE                  11
+                  WgAyeW, RayCEWd                  10
+                WiXXiaCs, MyrreXX                  19
+                XEpez WAWez, XAis                  18
+  XariEs XaWdaverde, XAis ErWesME                  18
+           XariEs, Cesar GiEvaWWi                  20
+                       Xee, XaCar                  22
+                     XiWW, JAsMiW                  14
+                   ZaCEra, CigAeX                  19
+                   ZaCEra, Edward                  11
+Count of occurrences of long shifts for each employee:
+                  Employee Name  Long Shifts Count
+DeXgadiXXE REdarMe, ChrisMiaW S                  1
